@@ -31,6 +31,9 @@ education:
     - course: MSc in Computer Science
       institution: University of California, San Diego
       year: 2022
+    - course: Visiting student
+      institution: University of California, Berkeley
+      year: 2019
     - course: BEng in Computer Science
       institution: South China University of Technology
       year: 2017
