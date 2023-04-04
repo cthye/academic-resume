@@ -72,8 +72,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a first year Master's majoring in Computer Science at UC San Diego. My interests include Computer Systems (Operating Systems, Networking) and Computer Graphics (Rendering).
+I am a first year Master's student majoring in Computer Science at UC San Diego. My interests include Computer Systems (Operating Systems, Networking Systems) and Computer Graphics (Rendering).
 
 Prior to graduate school, I was a back-end engineer, experienced in data processing, building highly available and maintainable systems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
