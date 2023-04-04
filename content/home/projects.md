@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Computer Graphics
+    - name: Graphics
       tag: Computer Systems
-    - name: Computer Systems
+    - name: Systems
       tag: Computer Systems
     - name: Others
       tag: Others

@@ -21,7 +21,9 @@ url_code: 'https://github.com/cthye/ReSTIR-on-La-Jolla'
 url_pdf: 'https://drive.google.com/file/d/1TLZh64V2zknsVvBiiteAcnIq1dyykyNn/view?usp=sharing'
 url_slides: ''
 url_video: ''
-url_images: 'abc'
+links:
+- name: Images
+  url: http://example.org
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
