@@ -2,7 +2,8 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
-type: landing
+# type: landing
+type: widget
 
 sections:
   # - block: hero
@@ -41,7 +42,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: yes
+      text: 
   - block: features
     content:
       title: Skills
