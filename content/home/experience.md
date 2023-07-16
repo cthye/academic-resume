@@ -26,7 +26,7 @@ experience:
     company: Adobe Inc.
     company_url: https://www.adobe.com/
     company_logo: adobe-2
-    location: Beijing, China
+    location: San Jose, United States
     date_start: '2023-06-19'
     date_end: '2023-09-15'
     description: |2-
