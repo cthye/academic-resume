@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Gallery
-subtitle:
+subtitle: I also learn sketching in my spare time
 
 design:
   columns: '1'

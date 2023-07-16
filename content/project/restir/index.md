@@ -2,7 +2,7 @@
 title: ReSTIR DI
 summary: Implement ReSTIR DI on La Jolla Render
 tags:
-  - Computer Graphics
+  - Computer_Graphics
 date: '2023-03-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
