@@ -42,12 +42,19 @@ sampling proportionally to a target PDF, which no practical sampling algorithm m
 ρ · Le · G); 2) using a constant length "reservoir" to store accepted samples; 3) reusing information
 from nearby samples both spatially and temporally.
 
+The project implements three unbiased RIS along with the biased one: the naive method, the
+MIS method, and the HMIS method which combines RIS with heuristics.
+
 Please see the [report](https://drive.google.com/file/d/1TLZh64V2zknsVvBiiteAcnIq1dyykyNn/view?usp=sharing) for further explanation about the mathematical background of ReSTIR and more rendering results.
 
 Below section shows different result rendered with Monte Carlo and ReSTIR of a scene with 400 lights in total to present the power of ReSTIR.
 
+Rendered with ReSTIR with spp 4:
 ![ReSTIR with spp 4](images/final_restir_1_bunny_4.png)
+Rendered with Monte Carlo with spp 4:
 ![Monte Carlo with spp 4](images/mc_bunny_4.png)
+Rendered with ReSTIR with spp 40:
 ![ReSTIR with spp 40](images/final_restir_1_bunny_40.png)
+Rendered with Monte Carlo with spp 40:
 ![Monte Carlo with spp 40](images/mc_bunny_40.png)
 
