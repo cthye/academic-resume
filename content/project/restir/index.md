@@ -23,7 +23,7 @@ url_slides: ''
 url_video: ''
 links:
 - name: Images
-  url: http://example.org
+  url: https://drive.google.com/drive/folders/1AxL6FJx0QjUQ51B9HukdVY2xPCcVffO0?usp=sharing
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -49,12 +49,12 @@ Please see the [report](https://drive.google.com/file/d/1TLZh64V2zknsVvBiiteAcnI
 
 Below section shows different result rendered with Monte Carlo and ReSTIR of a scene with 400 lights in total to present the power of ReSTIR.
 
-Rendered with ReSTIR with spp 4:
+- Rendered with ReSTIR with spp 4:
 ![ReSTIR with spp 4](images/final_restir_1_bunny_4.png)
-Rendered with Monte Carlo with spp 4:
+- Rendered with Monte Carlo with spp 4:
 ![Monte Carlo with spp 4](images/mc_bunny_4.png)
-Rendered with ReSTIR with spp 40:
+- Rendered with ReSTIR with spp 40:
 ![ReSTIR with spp 40](images/final_restir_1_bunny_40.png)
-Rendered with Monte Carlo with spp 40:
+- Rendered with Monte Carlo with spp 40:
 ![Monte Carlo with spp 40](images/mc_bunny_40.png)
 
