@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer Intern
+    company: Adobe Inc.
+    company_url: https://www.adobe.com/
+    company_logo: adobe-2
+    location: Beijing, China
+    date_start: '2023-06-19'
+    date_end: '2023-09-15'
+    description: |2-
+        Responsibilities include:
+        
+        * Simulating batch ingestion to provide expected graph changes and quantity metrics
   - title: Back-end Engineer
     company: Kuaishou Tech.
     company_url: https://www.kuaishou.com/en
