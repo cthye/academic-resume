@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: Graphics
-      tag: Computer_Systems
+      tag: Computer_Graphics
     - name: Systems
       tag: Computer_Systems
     - name: Others
