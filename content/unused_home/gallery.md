@@ -13,7 +13,7 @@ title: Gallery
 subtitle: I also learn sketching in my spare time
 
 design:
-  columns: '3'
+  columns: '1'
 ---
 
 <!-- {{< gallery album="demo" >}} -->
