@@ -9,7 +9,7 @@ date: '2023-06-13T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Soft body
+  caption: Fluid
   focal_point: Smart
 
 # links:
