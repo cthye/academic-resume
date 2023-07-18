@@ -20,3 +20,5 @@ design:
 ![test](../projects/../post/getting-started/featured.jpg)
 ![test](../projects/../post/getting-started/featured.jpg)
 ![test](../projects/../post/getting-started/featured.jpg)
+
+<img src="../projects/../post/getting-started/featured.jpg" alt="image-20221007075459398" style="zoom:10%;" />
