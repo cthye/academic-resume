@@ -35,4 +35,5 @@ url_video: 'https://drive.google.com/file/d/1DWYlfALppaB8_W2_A0dkwRVIvFWKN8KH/vi
 
 This project implements the finite element/volume method (FEM/FVM) method for simulating a soft body falling and bouncing off the ground. This project adopts simple St. Venant-Kirchhoff model for elasticity.
 
+Please click to see the result video:
 [![IMAGE ALT TEXT HERE](featured.png)](https://drive.google.com/file/d/1DWYlfALppaB8_W2_A0dkwRVIvFWKN8KH/view?usp=sharing)
