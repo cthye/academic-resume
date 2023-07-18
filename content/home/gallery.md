@@ -17,8 +17,27 @@ design:
 ---
 
 <!-- {{< gallery album="demo" >}} -->
-![test](../projects/../post/getting-started/featured.jpg)
-![test](../projects/../post/getting-started/featured.jpg)
-![test](../projects/../post/getting-started/featured.jpg)
 
-<img src="../projects/../post/getting-started/featured.jpg" alt="image-20221007075459398" style="zoom:10%;" />
+<table>
+  <tr>
+    <!-- First row, first column -->
+    <td>
+      <img src="../post/getting-started/featured.jpg">
+    </td>
+    <!-- First row, second column -->
+    <td>
+      <img src="../post/getting-started/featured.jpg">
+    </td>
+  </tr>
+  <tr>
+    <!-- Second row, first column -->
+    <td>
+      <img src="../post/getting-started/featured.jpg">
+    </td>
+    <!-- Second row, second column -->
+    <td>
+      <img src="../post/getting-started/featured.jpg">
+    </td>
+  </tr>
+</table>
+<!-- End of the table -->
