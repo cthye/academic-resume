@@ -33,7 +33,7 @@ url_video: ''
 # slides: example
 ---
 
-This projects Designed experiments to measure the performance of a Linux system w.r.t. CPU, RAM, network, and file system in C. Also, it analyzes relationships between various system metrics and utilized benchmarks to identify performance bottlenecks.
+This project designed experiments to measure the performance of a Linux system w.r.t. CPU, RAM, network, and file system in C. Also, it analyzed relationships between various system metrics and utilized benchmarks to identify performance bottlenecks.
 
 
 

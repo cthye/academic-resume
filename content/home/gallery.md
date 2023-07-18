@@ -16,4 +16,5 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="demo" >}}
+<!-- {{< gallery album="demo" >}} -->
+![test](../projects/../post/getting-started/featured.jpg)
