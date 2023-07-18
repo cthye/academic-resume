@@ -1,5 +1,5 @@
 ---
-title: Vanilla NeRF reimplementation
+title: Vanilla NeRF Reimplementation
 summary: Reimplement vanilla NeRF with PyTorch
 tags:
   - Others

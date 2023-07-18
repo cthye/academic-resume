@@ -1,5 +1,5 @@
 ---
-title: Soft body Simulation
+title: Soft Body Simulation
 summary: Implement soft body simulation with FEM
 tags:
   - Computer_Graphics

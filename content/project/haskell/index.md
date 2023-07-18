@@ -1,5 +1,5 @@
 ---
-title: Haskell tank-battalion
+title: Haskell Tank-battalion
 summary: Implement tank-battalion game with Haskell
 tags:
   - Others
@@ -33,7 +33,7 @@ url_slides: ''
 # slides: example
 ---
 
-This project implements a pixel-game with haskell. Tank Battalion is a classic shooter arcade video game in which the 2 players control tanks that defend their own base as well as destroy the other player's tank. The player will lose if either player's tank or base is destroyed by the other player.
+This project implements a pixel-game with Haskell. Tank Battalion is a classic shooter arcade video game in which the 2 players control tanks that defend their own base as well as destroy the other player's tank. The player will lose if either player's tank or base is destroyed by the other player.
 
 ![demo](demo.gif)
 

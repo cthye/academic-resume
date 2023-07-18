@@ -1,5 +1,5 @@
 ---
-title: Rigid body Simulation
+title: Rigid Body Simulation
 summary: Implement rigid body simulation
 tags:
   - Computer_Graphics
