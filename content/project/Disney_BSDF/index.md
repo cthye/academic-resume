@@ -2,7 +2,7 @@
 title: Disney BSDF 
 summary: Implement Disney principled BSDF on La Jolla Render
 tags:
-  - Computer Graphics
+  - Computer_Graphics
 date: '2023-01-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

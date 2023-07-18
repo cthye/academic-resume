@@ -2,7 +2,7 @@
 title: Volumetric Rendering
 summary: Implement Volumetric Rendering on La Jolla Render
 tags:
-  - Computer Graphics
+  - Computer_Graphics
 date: '2023-02-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
