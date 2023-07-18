@@ -13,8 +13,10 @@ title: Gallery
 subtitle: I also learn sketching in my spare time
 
 design:
-  columns: '1'
+  columns: '3'
 ---
 
 <!-- {{< gallery album="demo" >}} -->
+![test](../projects/../post/getting-started/featured.jpg)
+![test](../projects/../post/getting-started/featured.jpg)
 ![test](../projects/../post/getting-started/featured.jpg)
