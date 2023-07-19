@@ -35,5 +35,5 @@ url_video: 'https://drive.google.com/file/d/1MvX_LDy7jrne1enMAPV1CotxfqmpjGkK/vi
 
 This project implements the fluid simulation based on the Material Point Method (MPM). MPM is a hybrid Lagrangian-Eulerian method that can simulate a wide range of physical phenomena. It was originally extended from FLIP and takes the simulation framework of (Particle In Cell) PIC / (Fluid-Implicit-Particle) FLIP. A recent development, Moving Least Squares MPM (MLS-MPM) makes MPM more efficient and easier to implement. This project is basically implemented with MLS-MPM.
 
-Please click to see the result video:
+**Please click to see the result video:**
 [![IMAGE ALT TEXT HERE](000001.png)](https://drive.google.com/file/d/1MvX_LDy7jrne1enMAPV1CotxfqmpjGkK/view?usp=sharing)

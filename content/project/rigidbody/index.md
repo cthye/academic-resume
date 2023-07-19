@@ -44,8 +44,19 @@ This project contains two parts:
 **Click to see the result video:**
 [![IMAGE ALT TEXT HERE](images/collision.png)](https://drive.google.com/file/d/1NNTaPCnEfFRoXZfHC7oG71pph0QSk3aK/view?usp=sharing)
 
+
+<style>
+  /* Set the width and height of the video element */
+  video {
+    width: 100%; /* You can change this to a specific width in pixels or percentage */
+    height: auto; /* This will maintain the aspect ratio of the video */
+    /* Alternatively, you can set a specific height if you want to fix the aspect ratio */
+    /* height: 400px; */
+  }
+</style>
+
 <video controls>
-  <source src="https://drive.google.com/file/d/1NNTaPCnEfFRoXZfHC7oG71pph0QSk3aK/view?usp=sharing" type="video/mp4">
+  <source src="collision.mp4" type="video/mp4">
 </video>
 
 

@@ -35,7 +35,7 @@ url_video: 'https://drive.google.com/file/d/1J8Sq4kPZ6XIdUMg5UfAYL4hesYGfC1gF/vi
 
 This project reimplements the paper "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". The Neural Radiance Field, or NeRF, has exploded in popularity since its first debut in ECCV 2020. This image-based rendering technique shows impressive results in reconstructing photorealistic 3D scenes from a set of calibrated 2D images. Due to its widespread use in both academia and industry, we hope to learn NeRF by reimplementing it from scratch in PyTorch.
 
-Click to see the result video:
+**Click to see the result video:**
 [![IMAGE ALT TEXT HERE](featured.png)](https://drive.google.com/file/d/1J8Sq4kPZ6XIdUMg5UfAYL4hesYGfC1gF/view?usp=sharing)
 
 
