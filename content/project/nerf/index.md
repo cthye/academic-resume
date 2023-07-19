@@ -45,10 +45,8 @@ This project reimplements the paper "NeRF: Representing Scenes as Neural Radianc
   }
 </style>
 
-**Click to see the result video:**
 <video controls>
-  <source src="nerf.mp4" type="video/mp4">
+    <source src="nerf.mp4" type="video/mp4">
 </video>
-
 
 

@@ -45,7 +45,6 @@ This project implements the fluid simulation based on the Material Point Method 
   }
 </style>
 
-**Please click to see the result video:**
 <video controls>
   <source src="fluid.mp4" type="video/mp4">
 </video>

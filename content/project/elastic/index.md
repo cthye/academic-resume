@@ -45,7 +45,6 @@ This project implements the finite element/volume method (FEM/FVM) method for si
   }
 </style>
 
-**Please click to see the result video**:
 <video controls>
   <source src="bouncing_house.mp4" type="video/mp4">
 </video>
