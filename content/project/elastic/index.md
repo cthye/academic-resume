@@ -35,5 +35,17 @@ url_video: 'https://drive.google.com/file/d/1DWYlfALppaB8_W2_A0dkwRVIvFWKN8KH/vi
 
 This project implements the finite element/volume method (FEM/FVM) method for simulating a soft body falling and bouncing off the ground. This project adopts simple St. Venant-Kirchhoff model for elasticity.
 
+<style>
+  /* Set the width and height of the video element */
+  video {
+    width: 100%; /* You can change this to a specific width in pixels or percentage */
+    height: auto; /* This will maintain the aspect ratio of the video */
+    /* Alternatively, you can set a specific height if you want to fix the aspect ratio */
+    /* height: 400px; */
+  }
+</style>
+
 **Please click to see the result video**:
-[![IMAGE ALT TEXT HERE](featured.png)](https://drive.google.com/file/d/1DWYlfALppaB8_W2_A0dkwRVIvFWKN8KH/view?usp=sharing)
+<video controls>
+  <source src="bouncing_house.mp4" type="video/mp4">
+</video>

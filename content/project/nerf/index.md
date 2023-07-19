@@ -35,9 +35,20 @@ url_video: 'https://drive.google.com/file/d/1J8Sq4kPZ6XIdUMg5UfAYL4hesYGfC1gF/vi
 
 This project reimplements the paper "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". The Neural Radiance Field, or NeRF, has exploded in popularity since its first debut in ECCV 2020. This image-based rendering technique shows impressive results in reconstructing photorealistic 3D scenes from a set of calibrated 2D images. Due to its widespread use in both academia and industry, we hope to learn NeRF by reimplementing it from scratch in PyTorch.
 
-**Click to see the result video:**
-[![IMAGE ALT TEXT HERE](featured.png)](https://drive.google.com/file/d/1J8Sq4kPZ6XIdUMg5UfAYL4hesYGfC1gF/view?usp=sharing)
+<style>
+  /* Set the width and height of the video element */
+  video {
+    width: 100%; /* You can change this to a specific width in pixels or percentage */
+    height: auto; /* This will maintain the aspect ratio of the video */
+    /* Alternatively, you can set a specific height if you want to fix the aspect ratio */
+    /* height: 400px; */
+  }
+</style>
 
+**Click to see the result video:**
+<video controls>
+  <source src="nerf.mp4" type="video/mp4">
+</video>
 
 
 
