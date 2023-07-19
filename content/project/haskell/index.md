@@ -35,6 +35,10 @@ url_slides: ''
 
 This project implements a pixel-game with Haskell. Tank Battalion is a classic shooter arcade video game in which the 2 players control tanks that defend their own base as well as destroy the other player's tank. The player will lose if either player's tank or base is destroyed by the other player.
 
+The main characters of this game are tanks, where the player has one controllable tank that can move (up, down, left, and right) and fire.
+
+The board consists of the following elements: Walls, Stones, Base, Ammo, Colletible, Bullet, Lake and Tanks.
+
 ![demo](demo.gif)
 
 

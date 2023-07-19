@@ -35,5 +35,28 @@ url_video: ''
 
 This project designed experiments to measure the performance of a Linux system w.r.t. CPU, RAM, network, and file system in C. Also, it analyzed relationships between various system metrics and utilized benchmarks to identify performance bottlenecks.
 
+The benchmarks include:
+- CPU, Scheduling, and OS Services
+  - Procedure call overhead
+  - System call overhead
+  - Task creation time
+  - Context switch time
+
+- Memory
+  - RAM access time
+  - RAM bandwidth
+  - Page fault service time
+
+- Network
+  - Round trip time
+  - Peak bandwidth
+  - Connection overhead
+
+- File System
+  - Size of file cache
+  - File read time
+  - Remote file read time
+  - Contention
+
 
 
