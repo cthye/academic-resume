@@ -35,13 +35,13 @@ links:
 
 This project implements the Disney principled BSDF, a Bidirectional Scattering Distribution Function in La Jolla Renderer. The Disney principled BSDF aims to provide a universal solution for representing common materials using a single BSDF. While it is based on physical principles and real-world data, its primary focus is not strict physical accuracy. Instead, it serves as a practical tool for parameterizing a wide range of materials to facilitate artistic expression.
 
-<!-- - Diffuse
-![Diffuse](images/clearcoat.png)
-- Mental
-![Mental](images/clearcoat_output.jpg)
+- Diffuse
+![Diffuse](images/disney_diffuse.png)
+- Metal
+![Metal](images/disney_metal.png)
 - Glass
-![Glass](images/clearcoat_output.jpg) -->
+![Glass](images/disney_glass.png)
 - Clearcoat
 ![Clearcoat](images/clearcoat.png)
-<!-- - Sheen
-![Sheen](images/clearcoat_output.jpg) -->
+- Sheen
+![Sheen](images/disney_sheen.png)

@@ -3,7 +3,7 @@ title: Fluid Simulation
 summary: Implement fluid simulation with MLS-MPM
 tags:
   - Computer_Graphics
-date: '2023-06-13T00:00:00Z'
+date: '2023-05-13T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
