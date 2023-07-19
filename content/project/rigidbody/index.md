@@ -36,14 +36,17 @@ url_video: 'https://drive.google.com/file/d/1-T3uPccf2d29Nx9x5UNcY2ra9PBI3Qz1/vi
 This project contains two parts:
 - The first part implements the rigid body simulation (simple double pendulum) and derive its equation of motion using the least action principle. Please see the [document](https://drive.google.com/file/d/1N6UzexTRzI-4LiI1mi2u1qjpciLu-kbp/view?usp=sharing) for the proof and the [code](https://github.com/cthye/simulation/tree/master/hw1)
 
-Click to see the result video:
+**Click to see the result video:**
 [![IMAGE ALT TEXT HERE](images/double_pendulum.png)](https://drive.google.com/file/d/1-T3uPccf2d29Nx9x5UNcY2ra9PBI3Qz1/view?usp=sharing)
 
 - The second part implements the rigid body collision detection and response with impulsed-based method. Please see the [code](https://github.com/cthye/103/tree/master/hw1).
 
-Click to see the result video:
+**Click to see the result video:**
 [![IMAGE ALT TEXT HERE](images/collision.png)](https://drive.google.com/file/d/1NNTaPCnEfFRoXZfHC7oG71pph0QSk3aK/view?usp=sharing)
 
+<video controls>
+  <source src="https://drive.google.com/file/d/1NNTaPCnEfFRoXZfHC7oG71pph0QSk3aK/view?usp=sharing" type="video/mp4">
+</video>
 
 
 
